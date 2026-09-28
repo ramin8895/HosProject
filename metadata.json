@@ -1,0 +1,10 @@
+{
+  "name": "ملک‌یاب - سامانه هوشمند املاک بر پایه نقشه",
+  "description": "جستجوی دقیق و هوشمند ملک بر پایه نقشه تعاملی، تور مجازی ۳۶۰ درجه، چت مستقیم خریدار و مشاور و فیلترهای پیشرفته قیمت و متراژ",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
